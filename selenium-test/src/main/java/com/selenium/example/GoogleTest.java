@@ -20,6 +20,7 @@ public class GoogleTest
         searchBox.sendKeys("Selenium WebDriver");
         searchBox.click();
        System.out.println("Hello Selenium, Practise makes Perfect !! ");
+        // java program written by bhaskar
 
    }
 
